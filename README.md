@@ -1,0 +1,1 @@
+Client&Plugin Shared Constants
